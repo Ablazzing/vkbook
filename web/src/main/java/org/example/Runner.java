@@ -1,4 +1,4 @@
-package example;
+package org.example;
 
 import com.javaacademy.UserService;
 
